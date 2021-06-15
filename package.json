@@ -1,0 +1,18 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "first server",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "karimdeveloper12@gmail.com"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "karim",
+  "license": "ISC"
+}
